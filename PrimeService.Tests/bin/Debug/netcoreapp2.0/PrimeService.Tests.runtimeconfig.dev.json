@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\user\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\user\\.nuget\\packages",
+      "C:\\Users\\user\\Desktop\\fbi-lab-master\\net-clean-x86\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
